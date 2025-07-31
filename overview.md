@@ -26,6 +26,7 @@ The idea is to create a system that allows obsolete governance to be replaced ov
   - Modular, open-source legal code focused on voluntary association, contracts, and property rights.
   - Integration with LLMs for arbitration, contract interpretation, and access to justice.
   - Codified in smart contracts to ensure predictable and automated enforcement.
+  - Laws are to be in plain language to make it easy for everyone to understand and protect their own rights.
 
 - **Modifications to Maximize Rights**:
   - Anti-corporate capture clauses.
