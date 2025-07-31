@@ -83,6 +83,24 @@ A foundational legal system proposal for a decentralized, post-national society 
 
 ---
 
+## Electoral Systems and Political Representation
+
+- **Rejection of First-Past-The-Post (FPTP)**:
+  - The Kusanagi-Silverhand Legal Framework explicitly rejects FPTP electoral systems due to their tendency to concentrate power, marginalize minority voices, and enable two-party dominance.
+  - Instead, the framework promotes alternative voting methods that better capture the diversity of political will, such as:
+    - **Ranked Choice Voting (Instant Runoff)**: Allows voters to rank candidates by preference, ensuring majority support for elected officials.
+    - **Proportional Representation**: Allocates seats based on percentage of votes, fostering multiparty participation and coalition governance.
+    - **Delegative Democracy / Liquid Democracy**: Combines direct and representative elements by enabling vote delegation and revocation dynamically.
+    - **Sortition / Random Selection**: For some representative bodies or oversight councils, incorporating randomly selected citizens to reduce political capture and increase diversity.
+  - These systems are integrated with secure digital identities and blockchain-based verification to ensure transparency, security, and resilience against manipulation.
+
+- **Decentralized Political Power**:
+  - The framework emphasizes decentralized decision-making with strong local governance structures inspired by Swiss cantonal autonomy and Zapatista/Rojava models.
+  - Citizen participation through referenda, digital town halls, and DAO-based governance ensures laws and policies reflect the true will of the people without electoral monopolies.
+
+---
+
+
 
 
 More to come: DAO governance mechanics, land and resource rights, environmental protections, post-human legal theory.
