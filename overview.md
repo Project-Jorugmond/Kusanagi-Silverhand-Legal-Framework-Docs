@@ -115,5 +115,7 @@ The idea is to create a system that allows obsolete governance to be replaced ov
 
  - Resistance to Theocracy: Any attempt to impose religious rule—whether directly or through policy laundering—is treated as a civil rights violation and subject to legal countermeasures.
 
+ - Religious non harm: Religion is forbidden from being used as a justification to harm others. This includes forced attempts to convert or co-opt someone.
+
 
 More to come: DAO governance mechanics, land and resource rights, environmental protections, post-human legal theory.
