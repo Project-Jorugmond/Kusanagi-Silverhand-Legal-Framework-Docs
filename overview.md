@@ -69,6 +69,7 @@ The idea is to create a system that allows obsolete governance to be replaced ov
 - **AI Consent and Oversight**:
   - Explicit, revocable consent models for AI training and use of personal data.
   - Ban on weaponized or manipulative AI without oversight.
+  - AI models training data must provide a means to compensate the original authors of the work used to ensure fair compensation for data used in AI to authors.
 
 ---
 
