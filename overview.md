@@ -106,12 +106,14 @@ The idea is to create a system that allows obsolete governance to be replaced ov
 
 ---
 
-Secular Legal Foundation
-No Religious Law: The legal system is entirely secular. No religious doctrine, scripture, or authority may be used to justify, influence, or override laws, policies, or rights.
+## Secular Legal Foundation
 
-Freedom of Belief Without Imposition: All individuals are free to practice or reject religion, but religious beliefs have no place in governance or legal enforcement.
 
-Resistance to Theocracy: Any attempt to impose religious rule—whether directly or through policy laundering—is treated as a civil rights violation and subject to legal countermeasures.
+ - No Religious Law: The legal system is entirely secular. No religious doctrine, scripture, or authority may be used to justify, influence, or override laws, policies, or rights.
+
+ - Freedom of Belief Without Imposition: All individuals are free to practice or reject religion, but religious beliefs have no place in governance or legal enforcement.
+
+ - Resistance to Theocracy: Any attempt to impose religious rule—whether directly or through policy laundering—is treated as a civil rights violation and subject to legal countermeasures.
 
 
 More to come: DAO governance mechanics, land and resource rights, environmental protections, post-human legal theory.
