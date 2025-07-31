@@ -2,6 +2,8 @@
 
 A foundational legal system proposal for a decentralized, post-national society built on principles of maximum freedom, human rights, mutual aid, and advanced technological integration.
 
+The idea is to create a system that allows obsolete governance to be replaced over time gracefully.
+
 ---
 
 ## Core Rights and Freedoms
