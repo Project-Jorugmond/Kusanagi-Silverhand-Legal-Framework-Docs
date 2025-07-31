@@ -1,4 +1,4 @@
-# Legal DAO
+# Kusanagi-Silverhand Legal Framework
 The idea here is to implement a DAO for Project Jorugmond
 
 https://github.com/proftomwbell/Ulex is a good template for the legal system, modified to be modern, rights protecting, ai driven, forward thinking, plain language, and blockchain native.
