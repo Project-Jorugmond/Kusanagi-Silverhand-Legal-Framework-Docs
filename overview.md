@@ -27,6 +27,8 @@ The idea is to create a system that allows obsolete governance to be replaced ov
   - Integration with LLMs for arbitration, contract interpretation, and access to justice.
   - Codified in smart contracts to ensure predictable and automated enforcement.
   - Laws are to be in plain language to make it easy for everyone to understand and protect their own rights.
+  - All laws are version controlled and designed to be easy to parse for compute based systems as well.
+  - Different sub groups, ran by DAOs, can opt in to subsets or supersets of the law. Core fundamendtal rights are non negotiable.
 
 - **Modifications to Maximize Rights**:
   - Anti-corporate capture clauses.
