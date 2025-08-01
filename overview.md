@@ -51,6 +51,24 @@ This framework is designed to scale human rights, governance, and civic freedom 
 - **Opt-in Legal Layering**  
   Settlements may choose legal modules (e.g. civil, commercial, dispute resolution) from the open global repository (e.g., Ulex-style systems), but may not violate core rights enshrined in the Universal Rights Layer.
 
+## 📚 Plain Language Law & Self-Advocacy Rights
+
+All laws, legal systems, and dispute resolution mechanisms must be written in **clear, accessible, plain language**. Legal codes must prioritize:
+
+- **Comprehensibility over complexity**
+- **Open educational access** to legal processes and self-defense techniques
+- **Multilingual and neurodivergent-accessible formats**
+- **Visual, symbolic, and digital translations** of key rights and procedures
+
+### Core Guarantees:
+- **Right to Legal Clarity**: No person may be bound by a law they cannot reasonably understand.
+- **Right to Self-Defense**: Every individual must be able to **learn how to defend themselves in court** or tribunal without a paid intermediary or legal gatekeeper.
+- **Right to Open Precedent**: All prior rulings, doctrines, and legal reasoning must be **public, searchable, and free to remix** into one’s defense.
+
+Legal systems must **default to empowerment**, not dependency, and all courts must offer a **“Plain Justice Pathway”** parallel to the traditional legal representation model.
+
+**Legal systems that rely on intimidation, jargon, or economic barriers are in violation of fundamental civic access principles.**
+
 ## Universal Rights Layer
 
 All planetary frameworks must guarantee:
