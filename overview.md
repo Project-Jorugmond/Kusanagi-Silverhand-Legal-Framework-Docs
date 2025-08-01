@@ -182,5 +182,93 @@ The idea is to create a system that allows obsolete governance to be replaced ov
 
  - Religious non harm: Religion is forbidden from being used as a justification to harm others. This includes forced attempts to convert or co-opt someone and "conversion therapy". Religion is forbidden from being used as a justification to negate other's rights.
 
+---
+
+## Safeguards Against AI & Algorithmic Abuse
+
+### 1. 🛡 Algorithmic Sovereignty
+
+All individuals have the **right to opt-out** of algorithmic systems that affect their:
+- Rights
+- Reputation
+- Access to resources
+- Legal status
+- Social mobility
+
+No system may **coerce**, manipulate, or nudge behavior through opaque algorithms without informed, revocable consent.
+
+### 2. ⚖️ Algorithmic Due Process
+
+Any AI system used in civil, legal, or administrative decision-making must guarantee:
+
+- **Right to Explanation**: Individuals may demand a human-readable explanation of any decision that affects them.
+- **Right to Challenge**: Automated decisions must be subject to rapid, fair, and human-overseen appeal processes.
+- **Right to Redress**: Damages caused by faulty or abusive AI must be repairable through enforced accountability.
+
+### 3. 🧬 Algorithmic Disarmament Zones
+
+No AI or automated system may be used in:
+
+- Psychological profiling
+- Social credit scoring
+- Predictive policing
+- Religious or ideological sorting
+- Relationship or sexual behavior surveillance
+
+These functions are **permanently prohibited** as they constitute civil and psychological warfare.
+
+### 4. 🔍 Open Source & Auditability
+
+Any algorithm deployed in a civic or public function must be:
+
+- **Open source by default**
+- Auditable by third parties
+- Accompanied by training data documentation and bias audits
+- Version-controlled and tamper-evident
+
+Black-box AI systems are **banned** from use in any critical legal, medical, educational, or social function.
+
+### 5. 🧠 Cognitive Sovereignty Clause
+
+All persons are guaranteed:
+
+- The right to **mental privacy** (no brain-computer interface or neurotech may be deployed coercively or without verifiable consent)
+- Protection against **algorithmic gaslighting, mood manipulation, or social engineering** via AI systems
+- Immunity from **forced reeducation**, nudging campaigns, or AI-based religious or political manipulation
+
+Violation of cognitive sovereignty is defined as **digital torture** or **neuro-rights abuse** and treated accordingly under civil and criminal codes.
+
+### 6. 🤖 Autonomous Weapon Ban
+
+AI-powered autonomous weapons, drones, or digital “kill-switches” must be:
+
+- Prohibited from use in civilian areas or domestic policing
+- Disarmed by default in any civil or post-conflict setting
+- Subject to permanent bans from self-governing settlements unless explicitly voted in via direct democracy with veto rights
+
+Lethal autonomous systems are considered **incompatible with civil governance** and must be replaced with human-in-the-loop oversight.
+
+### 7. 🌐 Decentralized Arbitration Against Algorithmic Tyranny
+
+A planetary-wide **Decentralized Tribunal for Algorithmic Rights** (DTAR) will be formed to:
+
+- Hear claims of digital rights violations
+- Investigate coercion, blacklisting, surveillance, or AI-based discrimination
+- Provide emergency injunctions against dangerous deployments
+- Issue transparency demands and enforce algorithm shutdowns via quorum consensus
+
+Participation in DTAR is mandatory for any colony or jurisdiction deploying AI in civic functions.
+
+---
+
+### Summary Principles
+
+| Principle | Guarantee |
+|----------|-----------|
+| **Transparency** | No black-box decision systems in critical governance |
+| **Consent** | Algorithms cannot override human dignity or volition |
+| **Sovereignty** | Cognitive and legal independence from digital control |
+| **Accountability** | Humans must remain legally responsible for all AI actions |
+| **Revocability** | Systems must be shutdown-capable and non-binding in perpetuity |
 
 More to come: DAO governance mechanics, land and resource rights, environmental protections, post-human legal theory.
