@@ -1,5 +1,7 @@
 # The Algorithmic Geneva Conventions
 
+## Draft
+
 ### Preamble
 
 In recognition of the immense power artificial intelligence and algorithmic systems now hold over individuals, societies, and entire planetary populations, we, the undersigned, establish this framework as a living foundation for peace, dignity, and rights in the age of machine-mediated life.
