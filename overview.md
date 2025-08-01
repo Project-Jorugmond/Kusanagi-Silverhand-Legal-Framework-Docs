@@ -404,8 +404,6 @@ To enforce these rights, a **Universal Legal Self-Defense Curriculum** must be d
   - Surveillance or predictive enforcement
 - Closed-source code has **no legal force** in rights adjudication.
 
----
-
 
 ---
 
