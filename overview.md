@@ -1,4 +1,69 @@
-# Kusanagi-Silverhand Legal Framework
+# 🛰 Kusanagi–Silverhand Framework: Multi-Planetary Legal Doctrine
+
+## Purpose
+
+This framework is designed to scale human rights, governance, and civic freedom across planetary boundaries. As humanity extends its reach into orbital, lunar, Martian, and deep space environments, this doctrine provides a resilient, decentralized legal substrate that can resist authoritarian drift, corporate feudalism, and religious lawfare—wherever they emerge.
+
+## Core Characteristics
+
+- **Post-national & Jurisdiction-Fluid**  
+  Legal identity and civil rights are decoupled from geography or nation-states. Rights follow the individual across Earth and beyond.
+
+- **Non-Territorial Legal Substrate**  
+  Individuals and communities define their jurisdictional affiliations opt-in, rather than by default of land control or birthright.
+
+- **DAO-Native Infrastructure**  
+  Legal and governance systems are compatible with decentralized autonomous organizations (DAOs), smart contracts, zero-knowledge proofs, and cryptographic arbitration.
+
+- **Secular by Design**  
+  Religious doctrines may not serve as a basis for law. No religion, spiritual ideology, or theological claim may override individual rights or civic law.  
+
+- **Rebootable Governance**  
+  Every colony, ship, or node must contain a built-in framework for civic reboot in the event of collapse, capture, or digital coercion. Minimum human dignity and civil freedoms must be restorable by design.
+
+- **Interoperable Civic Protocols**  
+  Habitats, settlements, or ships may federate their laws, services, and identities using standardized open protocols. Governance must be compatible across low-bandwidth or high-latency links (e.g., Mars–Earth delay).
+
+## Anti-Authoritarian Safeguards
+
+- **Resistance to First-Past-the-Post Elections**  
+  The framework prohibits the use of first-past-the-post voting systems due to their susceptibility to minority rule and binary polarization.  
+  Preferred alternatives include:
+  - Approval Voting
+  - Ranked Choice Voting (RCV)
+  - Quadratic Voting
+  - Liquid Democracy with cryptographic delegation
+
+- **Mandated Transparency**  
+  All civic processes, budgets, and codebases (when relevant) must be transparent, auditable, and tamper-evident.
+
+- **Built-in Whistleblower Protection**  
+  Every node or jurisdiction must support anonymous reporting, evidence escrow, and emergency relief mechanisms for truth-tellers, dissenters, or those exposing systemic abuse.
+
+- **Civic Continuity Protocols**  
+  In the event of civil war, authoritarian takeover, or communication blackouts, local assemblies can fallback to base governance templates and reestablish continuity without external approval.
+
+## Legal Identity
+
+- **Crypto-Backed Legal Identity**  
+  Legal personhood is tied to a verifiable, sovereign identity using cryptographic signatures. This enables cross-jurisdictional contracts, voting, and rights assertion without reliance on nation-states.
+
+- **Opt-in Legal Layering**  
+  Settlements may choose legal modules (e.g. civil, commercial, dispute resolution) from the open global repository (e.g., Ulex-style systems), but may not violate core rights enshrined in the Universal Rights Layer.
+
+## Universal Rights Layer
+
+All planetary frameworks must guarantee:
+
+- Freedom of expression, movement, and assembly  
+- Right to bodily autonomy and informed consent  
+- Right to privacy and cryptographic protection  
+- Right to secular education, medical care, shelter, and food  
+- Right to refuse conscription or forced labor  
+- Right to open knowledge, communication, and inter-node travel (unless in states of emergency or proven threat)
+
+---
+
 
 A foundational legal system proposal for a decentralized, post-national society built on principles of maximum freedom, human rights, mutual aid, and advanced technological integration.
 
