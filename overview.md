@@ -307,6 +307,106 @@ To enforce these rights, a **Universal Legal Self-Defense Curriculum** must be d
 - The **use of artificial intelligence to confuse, silence, or punish individuals** without transparent, appealable, and human-readable explanations is a **violation of civic and human rights**.
 - Every deployment of AI in legal, medical, welfare, or security contexts must include **human override paths, real-time explainability, and redress channels.**
 
+## Core Principles
+
+### Plain Language Law
+- All legal systems must be written in **plain, accessible language**.
+- Any person, regardless of background, must be able to:
+  - Understand their rights and obligations.
+  - Represent themselves in court effectively without a lawyer.
+- Legal systems must include open-access education, simulation tools, and case study repositories.
+
+---
+
+## Legal Resilience Additions
+
+### 1. Right to Legal Forking
+- The law must be **forkable**.
+- Communities may locally adapt the base legal code, provided core rights remain intact.
+- Legal frameworks are versioned, transparently tracked, and openly auditable—like open-source software.
+
+### 2. Right to Algorithmic Neutrality
+- No algorithm or AI system may impose legal, social, or financial consequences **without human-readable justification**.
+- All such decisions must be:
+  - **Auditable**
+  - **Appealable**
+  - **Reversible**
+- Automated systems must log decision pathways and allow third-party inspection.
+
+---
+
+## Stateless and Post-Sovereign Protections
+
+### 3. Right to Stateless Existence
+- No human may be denied rights, shelter, or due process for lacking:
+  - Nationality
+  - Citizenship
+  - Corporate or digital identity credentials
+- Stateless persons, refugees, exiles, and AI-resistant individuals retain full rights under international human rights law.
+
+### 4. Antitheocratic Safeguards
+- Absolute separation between religion and law in:
+  - Government
+  - Arbitration
+  - AI mediation
+- Religious doctrine may not substitute for civil law in any jurisdiction.
+- Legal systems must be free from:
+  - Religious content training bias
+  - Morality-based restrictions on rights
+  - Retaliation for nonbelief, heresy, or apostasy
+
+---
+
+## Collapse and Emergency Resilience
+
+### 5. Rights During Collapse or State Failure
+- Human rights are persistent regardless of:
+  - Power grid collapse
+  - Institutional failure
+  - Armed conflict or planetary crisis
+- Frameworks must include:
+  - **Offline self-defense and legal education kits**
+  - **Peer-based arbitration protocols**
+  - **Portable and reproducible community justice systems**
+
+---
+
+## Multiplanetary Justice Extensions
+
+### 6. Planetary Relativism Clause
+- Legal timeframes must account for:
+  - Relativity
+  - Light-speed delay
+  - Gravity-warped communication windows
+- No individual may be punished due to Earth-based or off-world jurisdictional lag.
+- Appeals and rights of response must be available **on a relativistic schedule**.
+
+### 7. Terraforming-Era Environmental Justice
+- Celestial bodies are **commons**, not corporate property.
+- Any extraction, terraforming, or ecological disruption requires:
+  - Transparent planetary impact assessments
+  - Intergenerational and indigenous representation
+- Ecocide is recognized as a **planetary war crime**.
+
+---
+
+## Civic Technology Requirements
+
+### 8. Right to Fork Government Codebases
+- Any software used in governance must be:
+  - **Open source**
+  - **Forkable**
+  - **Reproducible**
+- Applies to systems for:
+  - Voting
+  - Legal adjudication
+  - Identity
+  - Surveillance or predictive enforcement
+- Closed-source code has **no legal force** in rights adjudication.
+
+---
+
+
 ---
 
 ### Summary Principles
