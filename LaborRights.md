@@ -33,4 +33,7 @@
 
 ### 🚀 Future-Proofing Labor
 
-- **Dynamic Labor Charters**: A
+- **Dynamic Labor Charters**: Adapt labor standards to new environments (AI, orbital, cybernetic) using democratic, participatory systems.
+- **Redundancy Without Devaluation**: Labor rendered obsolete by AI or robotics must be compensated with Universal Basic Infrastructure (UBI) and retraining pathways that honor prior contributions.
+
+> "No matter the world, no one should be without protection, representation, or dignity in labor."
