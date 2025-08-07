@@ -259,6 +259,7 @@ The traditional model of a singular, lifetime-appointed Supreme Court introduces
 #### 5. **Expert Informed Judicial Layer**
 - Major decisions subject to **expert review**:
   - Sometimes the masses don't understand something. Experts who have their vested interets transparently and openly documented should be able to give auditable advice on rulings while taking into account civil and human rights and scientific fact.
+  - These experts should be able to be vetoed if they are found to be acting in vested interests rather than public good and good faith.
 ---
 
 ### ⚙️ Anti-Capture Mechanisms
