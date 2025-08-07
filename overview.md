@@ -303,6 +303,74 @@ To protect the rights of the people, ensure ethical innovation, and prevent the 
 ---
 
 
+## ⚖️ Judicial Integrity and the Supreme Court
+
+### Abolition of Traditional Supreme Court in Favor of a Distributed Judicial Model
+
+To break from the legacy of centralized judicial authoritarianism, this framework abolishes the traditional Supreme Court model and replaces it with a distributed, peer-reviewed, high-integrity judicial network grounded in transparency, ethics, and democratic access to appeal.
+
+---
+
+### 🧠 Key Principles
+
+- **Decentralization**: No single judicial body shall monopolize constitutional interpretation or final authority. Instead, multiple independent review panels will form a federated oversight network.
+- **Rotational Review Panels**: Constitutional review is handled by rotating panels of jurists drawn from a diverse pool across all member-states, with term-limited service and anti-corruption auditing.
+- **Digital Transparency**: All deliberations, opinions, and votes are public and archived in decentralized, cryptographically verified records (e.g. IPFS or similar).
+- **Popular Oversight**: Citizens may call for judicial reviews via verified mass petition systems. Panels must respond within defined time windows or face automatic review by independent auditors.
+- **Ethics Before Precedent**: No ruling may stand if found to violate core rights to privacy, autonomy, unionization, or digital and physical freedom — regardless of precedent.
+
+---
+
+### ⚙️ Structure and Functions
+
+- **Constitutional Ethics Tribunal (CET)**:
+  - Replaces the "Supreme Court" as the highest ethical review body.
+  - Comprised of rotating legal scholars, ethicists, and technologists.
+  - Bound by the Core Rights Codex embedded in the constitution.
+
+- **Federated Judicial Circuits**:
+  - Each circuit maintains jurisdiction over a set of decentralized states.
+  - Randomized peer assignment for inter-circuit reviews to prevent bias.
+
+- **Rights Firewall**:
+  - Any policy, ruling, or law that violates foundational rights (as defined in the Kusanagi Codex) is nullified immediately upon tribunal ruling, requiring no executive or legislative assent.
+
+---
+
+### 🔒 Judicial Safeguards
+
+- **No Lifetime Appointments**: All judicial members serve fixed, non-renewable terms.
+- **Post-Term Cooling Period**: Judges may not work in lobbying, corporate law, or government positions for 10 years post-service.
+- **Conflict-of-Interest Audits**: Automated and manual audits of financial, corporate, and political ties conducted quarterly.
+
+---
+
+### 🔁 Appeal and Correction System
+
+- **Open Appeals Protocol**:
+  - Appeals may be filed digitally by any citizen or collective.
+  - Legal AI and human panels collaboratively review for merit.
+  - Appeals with substantial public backing (by threshold) trigger automatic review.
+
+- **Self-Correcting Opinions**:
+  - Past rulings may be re-reviewed periodically to account for emerging science, technology, or societal shifts.
+
+---
+
+### 🔧 Interplanetary Legal Applicability
+
+This model extends to **transplanetary colonies and habitats**, with jurisdiction adapted to distributed governance protocols. Ethics, rights, and law travel with the citizen — no zone shall override human dignity through jurisdictional loopholes.
+
+---
+
+### 🛡️ Final Mission
+
+The judiciary exists not to protect the powerful from the people, but to defend the foundational dignity of individuals and collectives alike — against all enemies, foreign, domestic, corporate, or algorithmic.
+
+
+---
+
+
 
 ## Secular Legal Foundation
 
