@@ -224,6 +224,81 @@ The idea is to create a system that allows obsolete governance to be replaced ov
 
 ---
 
+## ⚖️ Judicial Oversight and Constitutional Interpretation
+
+### 🧠 Rethinking the Supreme Court
+
+The traditional model of a singular, lifetime-appointed Supreme Court introduces bottlenecks, politicization, and entrenched oligarchic control. In a rights-based, federated digital democracy, constitutional interpretation must be decentralized, accountable, and regularly updated to reflect community values and emerging rights.
+
+---
+
+### 📜 Proposed Reforms
+
+#### 1. **Decentralized Constitutional Tribunal Network**
+- Replace a single Supreme Court with a **Constitutional Tribunal Network (CTN)**: A distributed body of regional, technical, and citizen jurists.
+- Nodes in the network may be:
+  - Regional Constitutional Panels
+  - Citizen Review Councils (selected via sortition)
+  - AI-assisted legal interpreters (auditable, open-source, rights-aligned)
+
+#### 2. **Term Limits & Rotation**
+- All jurists serve **limited terms (e.g., 6–12 years)** with **staggered rotation** to prevent capture and ensure generational renewal.
+- No lifetime appointments.
+
+#### 3. **Sortition + Merit-Based Selection**
+- Judges selected via **hybrid method**:
+  - Public legal expertise review (merit)
+  - Democratic sortition from vetted pools (randomized fairness)
+
+#### 4. **Public Review Layer**
+- Major decisions subject to **citizen review**:
+  - Deliberative digital forums
+  - Federated voting on interpretations of key rights issues
+  - Optional appeals to larger panels via quorum thresholds
+
+---
+
+### ⚙️ Anti-Capture Mechanisms
+
+- **Transparent AI oversight tools** flag patterns of bias or lobbying influence.
+- **Mandatory publication of dissenting opinions and vote breakdowns**.
+- All deliberations recorded and published after a fixed embargo period (e.g., 6 months) unless national security exemption is publicly reviewed.
+
+---
+
+### 🚫 Prohibited Practices
+
+- No political appointments tied to partisan officeholders.
+- No judicial lobbying or dark money influence.
+- No closed-door interpretation of foundational rights.
+
+---
+
+### 🔐 Enforcement Layer
+
+- The **Digital Rights Enforcement Authority (DREA)** ensures that constitutional interpretations are binding on all states or regions within the federation.
+- DREA functions independently, with a transparent funding and audit process, and its power is checked by citizen-initiated override or tribunal recall mechanisms.
+
+---
+
+### 🌍 Interoperability with Global Law
+
+- CTN decisions may cite and integrate **international human rights law**, **climate treaties**, and **space law principles** into rulings.
+- This ensures compatibility with federated states, autonomous zones, and off-world colonies.
+
+---
+
+### 📡 Purpose
+
+To protect the rights of the people, ensure ethical innovation, and prevent the oligarchic calcification of justice.
+
+> _"The Constitution should be a living guideline for humanity's progress and ensurance of their rights being maintained in an evolving galaxy, not a dead scripture."_  
+> — *Kusanagi Protocol §7*
+
+
+---
+
+
 
 ## Secular Legal Foundation
 
