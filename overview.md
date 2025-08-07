@@ -256,6 +256,9 @@ The traditional model of a singular, lifetime-appointed Supreme Court introduces
   - Federated voting on interpretations of key rights issues
   - Optional appeals to larger panels via quorum thresholds
 
+#### 5. **Expert Informed Judicial Layer**
+- Major decisions subject to **expert review**:
+  - Sometimes the masses don't understand something. Experts who have their vested interets transparently and openly documented should be able to give auditable advice on rulings while taking into account civil and human rights and scientific fact.
 ---
 
 ### ⚙️ Anti-Capture Mechanisms
