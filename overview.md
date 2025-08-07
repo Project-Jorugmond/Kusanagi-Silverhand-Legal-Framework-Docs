@@ -555,6 +555,91 @@ To enforce these rights, a **Universal Legal Self-Defense Curriculum** must be d
 
 ---
 
+## Article X: Forward-Thinking Immigration and Citizenship
+
+### Section 1: Principles of Immigration
+
+1. **Human Dignity First**  
+   All immigration and asylum policies shall recognize the intrinsic dignity and rights of all individuals, regardless of origin, belief, or status.
+
+2. **Migration as a Right**  
+   Migration shall not be treated solely as a security issue but as a fundamental right tied to survival, opportunity, and family unification.
+
+3. **Post-National Identity**  
+   Citizenship and residency frameworks shall prioritize shared values, contribution, and consent-based association over ancestry or birthplace.
+
+---
+
+### Section 2: Transparent and Humane Immigration Policy
+
+1. **Open Data & Public Oversight**  
+   All immigration decisions, quotas, and criteria must be public, machine-readable, and subject to civic oversight and appeal.
+
+2. **No Algorithmic Discrimination**  
+   AI or algorithmic systems used for immigration triage or risk assessment must be open-source, independently audited, and prohibited from making final decisions without human review.
+
+3. **Abolition of Arbitrary Borders**  
+   The Federation shall work toward reducing militarized border zones and replace them with humane, tech-enabled, and rights-respecting entry protocols.
+
+---
+
+### Section 3: Residency and Citizenship Pathways
+
+1. **Earned Residency**  
+   Long-term residency may be earned through community service, public contribution, education, or economic participation—not merely wealth.
+
+2. **Citizenship by Consent**  
+   Individuals may apply for citizenship through:
+   - Demonstrated alignment with civic values
+   - Local community sponsorship
+   - Civic education and language proficiency
+   - Transparent, equitable assessment—not political favor
+
+3. **Dual and Plural Citizenship Supported**  
+   The Federation shall recognize and accommodate plural citizenship structures, fostering global solidarity and distributed belonging.
+
+---
+
+### Section 4: Refuge and Asylum
+
+1. **Rapid Asylum Processing**  
+   The right to seek asylum shall be upheld with expedited, non-punitive procedures, especially for war, climate, and persecution refugees.
+
+2. **Climate Migration Readiness**  
+   The Federation shall maintain standing programs for climate migrants and collaborate globally to mitigate forced displacement.
+
+3. **Non-Criminalization of Migration**  
+   Unauthorized entry shall not be treated as a criminal offense. Detention of migrants, especially children, is categorically prohibited.
+
+---
+
+### Section 5: Civic Inclusion
+
+1. **Voting Rights for Long-Term Residents**  
+   Any resident who has contributed to civic life for a defined period (e.g. 3–5 years) shall be eligible to vote in local and regional elections.
+
+2. **Decentralized Immigration Councils**  
+   Immigration policies and integration support shall be co-managed by local councils, ensuring community engagement and contextual governance.
+
+3. **Anti-Exploitation Mandate**  
+   Labor protections for migrant workers must match or exceed those for citizens. Exploitation of immigrant labor shall be treated as a high civil offense.
+
+---
+
+### Section 6: Technological and Legal Safeguards
+
+1. **Digital Identity Optionality**  
+   Immigrants shall not be required to enroll in biometric or surveillance systems as a condition for entry or status.
+
+2. **Right to Data Portability and Privacy**  
+   Migrants shall control access to their personal data and have the right to port civic records across jurisdictions or nations.
+
+3. **No Deportation Without Hearing**  
+   Deportation or removal shall require due process, public oversight, and independent judiciary approval.
+
+---
+
+
 ## Multiplanetary Justice Extensions
 
 ### 6. Planetary Relativism Clause
