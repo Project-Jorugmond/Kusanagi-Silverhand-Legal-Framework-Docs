@@ -1,6 +1,6 @@
 ## Resilience Against Lawfare
 
-The **Kusanagi Silverhand Federation** is designed to resist **lawfare**—the hostile use of legal systems to suppress or dismantle sovereign digital communities.  
+The **Kusanagi Silverhand framework ** is designed to resist **lawfare**—the hostile use of legal systems to suppress or dismantle sovereign digital communities.  
 Resilience is achieved through a combination of **legal, technical, and governance structures**.
 
 ### Legal Architecture
