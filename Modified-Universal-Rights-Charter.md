@@ -3,7 +3,7 @@
 
 _An inclusive declaration of bodily, digital, and cultural sovereignty—protecting LGBTQ+, transhumanist, racial, and neurodivergent identities in the 21st century and beyond._
 
----
+---a
 
 ## 1. Right to Bodily Autonomy
 - Every sentient being has absolute sovereignty over their physical and modified form.
@@ -63,4 +63,7 @@ _An inclusive declaration of bodily, digital, and cultural sovereignty—protect
 
 ## 11. Right to Historical Continuity and Justice
 - No archive, census, or AI system may erase or decontextualize the histories of colonized, enslaved, or marginalized peoples.
-- Reparative justice, memorialization, and truthful recordkeeping are integral to h
+- Reparative justice, memorialization, and truthful recordkeeping are integral to human rights
+
+## 12. Right to Privacy
+- The right to privacy, including strong encryption, is a human right. When liberty and privacy are sacrificed in the name of "safety", orwellian nightmares are invited through the back door.
