@@ -67,3 +67,6 @@ _An inclusive declaration of bodily, digital, and cultural sovereignty—protect
 
 ## 12. Right to Privacy
 - The right to privacy, including strong encryption, is a human right. When liberty and privacy are sacrificed in the name of "safety", orwellian nightmares are invited through the back door.
+
+## right to financial autonomy 
+- the risk of the state using financial abuse to force compliance must not be overlooked, this is an evolving problem to solve, however one key tenant, even if money is digital on the back end, there must always be a physical option that can work offline and is coercive control resistant 
